@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>PHP для начинающих</title>
+        <author>Иван Иванов</author>
+        <year>2025</year>
+    </book>
+    <book>
+        <title>Оптимизация веб-приложений</title>
+        <author>Сергей Петров</author>
+        <year>2024</year>
+    </book>
+</books>
